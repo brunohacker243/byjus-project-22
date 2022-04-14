@@ -1,2 +1,1 @@
-# byjus-project-22
-Byju's project 22.
+# project-C22-template
